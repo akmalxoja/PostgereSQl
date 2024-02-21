@@ -382,3 +382,5 @@ select * from Customer_details
 
 
 --Sharifxo'jayev Akmalxo'ja
+
+-- moshniy
